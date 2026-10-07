@@ -1,0 +1,16 @@
+variant,category,numbers_real,products_covered,complaints_covered,length_ok,structure_ok,prose_ok,names_ok,unsupported,words,overall,model
+A,Fire tablets,0.8333333333333334,1.0,1.0,0.524,0.0,0.19999999999999996,1.0,,619,0.651047619047619,qwen3.5-4b
+B,Fire tablets,0.8571428571428571,1.0,1.0,0.92,1.0,1.0,1.0,,520,0.9681632653061225,qwen3.5-4b
+C,Fire tablets,0.8125,1.0,1.0,0.956,1.0,1.0,1.0,,511,0.9669285714285714,qwen3.5-4b
+A,Smart speakers (Echo),0.8333333333333334,1.0,1.0,0.472,0.0,0.0,0.0,"Echo Dot At, Amazon Tap Rounding",632,0.4721904761904762,qwen3.5-4b
+B,Smart speakers (Echo),0.782608695652174,0.5,0.75,1.0,1.0,1.0,1.0,,442,0.8618012422360248,qwen3.5-4b
+C,Smart speakers (Echo),0.8518518518518519,0.5,0.75,1.0,1.0,1.0,1.0,,443,0.8716931216931217,qwen3.5-4b
+A,Streaming devices (Fire TV),0.8571428571428571,1.0,1.0,1.0,0.0,0.7,1.0,,450,0.7938775510204081,qwen3.5-4b
+B,Streaming devices (Fire TV),1.0,1.0,1.0,1.0,1.0,1.0,1.0,,410,1.0,qwen3.5-4b
+C,Streaming devices (Fire TV),0.9090909090909091,1.0,1.0,1.0,1.0,1.0,1.0,,376,0.987012987012987,qwen3.5-4b
+A,E-readers (Kindle),0.875,1.0,1.0,0.6679999999999999,0.0,0.4,0.0,Kindle Oasis At,583,0.5632857142857143,qwen3.5-4b
+B,E-readers (Kindle),0.9393939393939394,1.0,1.0,0.876,1.0,1.0,1.0,,531,0.9736277056277055,qwen3.5-4b
+C,E-readers (Kindle),0.9333333333333333,1.0,1.0,1.0,1.0,1.0,1.0,,468,0.9904761904761905,qwen3.5-4b
+A,Accessories,0.875,1.0,0.75,1.0,0.0,0.6,1.0,,388,0.7464285714285713,qwen3.5-4b
+B,Accessories,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,432,1.0,qwen3.5-4b
+C,Accessories,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,425,1.0,qwen3.5-4b

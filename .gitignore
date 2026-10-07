@@ -1,0 +1,28 @@
+# Large trained model
+data/roberta_best/model.safetensors
+
+# Notebook archive / old versions
+notebooks/Archive/
+
+# Duplicate data folder
+data/1429_1.csv/
+
+# Temporary GitHub upload notebook
+Upload_Project_to_GitHub.ipynb
+
+# Secrets
+.env
+*.env
+.env.*
+secrets.*
+*api_key*
+*API_KEY*
+
+# Python / Colab temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Google Drive shortcut files
+*.gslides

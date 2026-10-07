@@ -1,0 +1,16 @@
+variant,category,numbers_real,products_covered,complaints_covered,length_ok,structure_ok,names_ok,unsupported,words,overall
+A,Fire tablets,0.9459459459459459,0.6666666666666666,1.0,0.704,0.0,1.0,,574,0.7194354354354354
+B,Fire tablets,0.8780487804878049,1.0,1.0,0.8280000000000001,1.0,1.0,,543,0.9510081300813008
+C,Fire tablets,0.7619047619047619,1.0,0.8,1.0,1.0,1.0,,418,0.9269841269841269
+A,Smart speakers (Echo),1.0,0.5,1.0,0.30800000000000005,0.0,1.0,,673,0.6346666666666666
+B,Smart speakers (Echo),1.0,1.0,0.75,1.0,1.0,1.0,,424,0.9583333333333334
+C,Smart speakers (Echo),1.0,1.0,1.0,0.4,1.0,1.0,,650,0.9
+A,Streaming devices (Fire TV),1.0,1.0,1.0,1.0,0.0,0.0,Amazon Prime Video,445,0.6666666666666666
+B,Streaming devices (Fire TV),1.0,1.0,1.0,1.0,1.0,0.0,Amazon Prime Video,331,0.8333333333333334
+C,Streaming devices (Fire TV),1.0,1.0,1.0,1.0,1.0,1.0,,269,1.0
+A,E-readers (Kindle),0.9836065573770492,1.0,1.0,0.5680000000000001,0.0,1.0,,608,0.7586010928961748
+B,E-readers (Kindle),1.0,1.0,0.8,0.764,1.0,1.0,,559,0.9273333333333333
+C,E-readers (Kindle),1.0,1.0,1.0,0.504,1.0,1.0,,624,0.9173333333333332
+A,Accessories,1.0,1.0,1.0,0.512,1.0,1.0,,622,0.9186666666666667
+B,Accessories,1.0,1.0,1.0,1.0,1.0,1.0,,355,1.0
+C,Accessories,1.0,1.0,1.0,1.0,1.0,1.0,,446,1.0

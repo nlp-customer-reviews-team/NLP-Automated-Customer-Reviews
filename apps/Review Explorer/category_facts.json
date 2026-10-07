@@ -1,0 +1,758 @@
+{
+  "Fire tablets": {
+    "category": "Fire tablets",
+    "n_reviews": 17578,
+    "n_products": 7,
+    "avg": 4.5,
+    "pct_neg": 3,
+    "limited": false,
+    "single": false,
+    "top": [
+      {
+        "name": "Fire Tablet 7\"",
+        "reviews": 11998,
+        "avg": 4.5,
+        "pct_neg": 3,
+        "pct_pos": 91,
+        "mentions": [
+          "cheap",
+          "small",
+          "little",
+          "beat",
+          "simple"
+        ],
+        "neg_cut": "1-2",
+        "n_neg": 362,
+        "complaints": [
+          [
+            "app availability",
+            21
+          ],
+          [
+            "slow performance",
+            20
+          ],
+          [
+            "price and value",
+            16
+          ]
+        ],
+        "quotes": [
+          "Not a huge fan. Hard to use, Lots of ads, and Randomly closes apps",
+          "I little disappointment. Cheap but biggest problem is I can't get it to download apps. The Internet connection is very weak"
+        ],
+        "praise": [
+          [
+            "price and value",
+            36
+          ],
+          [
+            "kids and family",
+            29
+          ],
+          [
+            "reading experience",
+            18
+          ]
+        ]
+      },
+      {
+        "name": "Fire HD 8 Tablet",
+        "reviews": 3251,
+        "avg": 4.6,
+        "pct_neg": 2,
+        "pct_pos": 95,
+        "mentions": [
+          "screen",
+          "size",
+          "ipad",
+          "reading",
+          "wife"
+        ],
+        "neg_cut": "1-2",
+        "n_neg": 66,
+        "complaints": [
+          [
+            "app availability",
+            27
+          ],
+          [
+            "screen quality",
+            20
+          ],
+          [
+            "slow performance",
+            15
+          ]
+        ],
+        "quotes": [
+          "App options pathetic. Does not let me connect with my library. Very diapointed",
+          "Not really statisfied with features. Dont have option for password ask you before buying apps once you authorized as allow its done.Not as many free good apps Like apple have it"
+        ],
+        "praise": [
+          [
+            "price and value",
+            29
+          ],
+          [
+            "reading experience",
+            23
+          ],
+          [
+            "kids and family",
+            16
+          ]
+        ]
+      },
+      {
+        "name": "Fire Kids Edition Tablet",
+        "reviews": 1682,
+        "avg": 4.5,
+        "pct_neg": 3,
+        "pct_pos": 91,
+        "mentions": [
+          "kids",
+          "case",
+          "grandson",
+          "kid",
+          "learning"
+        ],
+        "neg_cut": "1-2",
+        "n_neg": 57,
+        "complaints": [
+          [
+            "app availability",
+            28
+          ],
+          [
+            "slow performance",
+            21
+          ],
+          [
+            "Wi-Fi and connectivity",
+            19
+          ]
+        ],
+        "quotes": [
+          "Bad product. Everything is locked out to Amazon, no compatibility with the Google Play Store and a lot of games the children play are on the Play Store. This product is bad because it is locked into only Amazon services",
+          "Don't like...too hard to download other apps. I didon't care for this tablet, downloading apps outside of Amazon was really confusing"
+        ],
+        "praise": [
+          [
+            "kids and family",
+            77
+          ],
+          [
+            "easy to use",
+            11
+          ]
+        ]
+      }
+    ],
+    "worst": {
+      "name": "Fire Tablet 7\"",
+      "reviews": 11998,
+      "avg": 4.5,
+      "pct_neg": 3,
+      "pct_pos": 91,
+      "mentions": [
+        "cheap",
+        "small",
+        "little",
+        "beat",
+        "simple"
+      ],
+      "neg_cut": "1-2",
+      "n_neg": 362,
+      "complaints": [
+        [
+          "app availability",
+          21
+        ],
+        [
+          "slow performance",
+          20
+        ],
+        [
+          "price and value",
+          16
+        ]
+      ],
+      "quotes": [
+        "Not a huge fan. Hard to use, Lots of ads, and Randomly closes apps",
+        "I little disappointment. Cheap but biggest problem is I can't get it to download apps. The Internet connection is very weak"
+      ],
+      "praise": [
+        [
+          "price and value",
+          36
+        ],
+        [
+          "kids and family",
+          29
+        ],
+        [
+          "reading experience",
+          18
+        ]
+      ]
+    },
+    "worst_is_also_top": true
+  },
+  "Smart speakers (Echo)": {
+    "category": "Smart speakers (Echo)",
+    "n_reviews": 7261,
+    "n_products": 3,
+    "avg": 4.7,
+    "pct_neg": 2,
+    "limited": false,
+    "single": false,
+    "top": [
+      {
+        "name": "Amazon Echo / Echo Dot",
+        "reviews": 6618,
+        "avg": 4.7,
+        "pct_neg": 1,
+        "pct_pos": 95,
+        "mentions": [
+          "home",
+          "lights",
+          "fun",
+          "weather",
+          "smart"
+        ],
+        "neg_cut": "1-2",
+        "n_neg": 88,
+        "complaints": [
+          [
+            "voice recognition",
+            42
+          ],
+          [
+            "Wi-Fi and connectivity",
+            24
+          ],
+          [
+            "price and value",
+            17
+          ]
+        ],
+        "quotes": [
+          "I'm not happy with it. I can say it does recognize every accent, but there were too many questions unanswered",
+          "It was hard for me to work.. I had a hard time trying to work this it could not understand me most of the time everything seem to be hard to work for me"
+        ],
+        "praise": [
+          [
+            "voice control and smart home",
+            57
+          ],
+          [
+            "sound quality",
+            22
+          ],
+          [
+            "easy to use",
+            10
+          ]
+        ]
+      },
+      {
+        "name": "Amazon Tap",
+        "reviews": 636,
+        "avg": 4.5,
+        "pct_neg": 4,
+        "pct_pos": 92,
+        "mentions": [
+          "tap",
+          "portable",
+          "speaker",
+          "sound",
+          "button"
+        ],
+        "neg_cut": "1-2",
+        "n_neg": 24,
+        "complaints": [
+          [
+            "sound quality",
+            42
+          ],
+          [
+            "voice recognition",
+            21
+          ],
+          [
+            "Wi-Fi and connectivity",
+            21
+          ]
+        ],
+        "quotes": [
+          "It's Ok. Not too satisfied with the sound and it loses Bluetooth connection no matter what phone I use (either Iphone or Android)",
+          "terrible product,bad voice quality. the speaker voice quality is terrible compare the similar size my logitech UE BOOM.the price is too high, even I got on promotion with $79"
+        ],
+        "praise": [
+          [
+            "sound quality",
+            55
+          ],
+          [
+            "voice control and smart home",
+            52
+          ],
+          [
+            "portability and size",
+            31
+          ]
+        ]
+      }
+    ],
+    "worst": {
+      "name": "Amazon Tap",
+      "reviews": 636,
+      "avg": 4.5,
+      "pct_neg": 4,
+      "pct_pos": 92,
+      "mentions": [
+        "tap",
+        "portable",
+        "speaker",
+        "sound",
+        "button"
+      ],
+      "neg_cut": "1-2",
+      "n_neg": 24,
+      "complaints": [
+        [
+          "sound quality",
+          42
+        ],
+        [
+          "voice recognition",
+          21
+        ],
+        [
+          "Wi-Fi and connectivity",
+          21
+        ]
+      ],
+      "quotes": [
+        "It's Ok. Not too satisfied with the sound and it loses Bluetooth connection no matter what phone I use (either Iphone or Android)",
+        "terrible product,bad voice quality. the speaker voice quality is terrible compare the similar size my logitech UE BOOM.the price is too high, even I got on promotion with $79"
+      ],
+      "praise": [
+        [
+          "sound quality",
+          55
+        ],
+        [
+          "voice control and smart home",
+          52
+        ],
+        [
+          "portability and size",
+          31
+        ]
+      ]
+    },
+    "worst_is_also_top": true
+  },
+  "Streaming devices (Fire TV)": {
+    "category": "Streaming devices (Fire TV)",
+    "n_reviews": 5065,
+    "n_products": 3,
+    "avg": 4.7,
+    "pct_neg": 2,
+    "limited": false,
+    "single": true,
+    "top": [
+      {
+        "name": "Amazon Fire TV",
+        "reviews": 5054,
+        "avg": 4.7,
+        "pct_neg": 1,
+        "pct_pos": 96,
+        "mentions": [],
+        "neg_cut": "1-2",
+        "n_neg": 73,
+        "complaints": [
+          [
+            "Wi-Fi and connectivity",
+            25
+          ],
+          [
+            "app availability",
+            16
+          ],
+          [
+            "setup and ease of use",
+            15
+          ]
+        ],
+        "quotes": [
+          "I don't like it.. I can't seem to be able to hook it up with my internet connection. I will be returning it to the store",
+          "Poor connection. This device is much slower than other similar devices on the market. The internet connection is not stable, even when direct in via Ethernet"
+        ],
+        "praise": [
+          [
+            "streaming and video",
+            44
+          ],
+          [
+            "speed and performance",
+            15
+          ],
+          [
+            "easy to use",
+            15
+          ]
+        ]
+      }
+    ],
+    "worst": {
+      "name": "Amazon Fire TV",
+      "reviews": 5054,
+      "avg": 4.7,
+      "pct_neg": 1,
+      "pct_pos": 96,
+      "mentions": [],
+      "neg_cut": "1-2",
+      "n_neg": 73,
+      "complaints": [
+        [
+          "Wi-Fi and connectivity",
+          25
+        ],
+        [
+          "app availability",
+          16
+        ],
+        [
+          "setup and ease of use",
+          15
+        ]
+      ],
+      "quotes": [
+        "I don't like it.. I can't seem to be able to hook it up with my internet connection. I will be returning it to the store",
+        "Poor connection. This device is much slower than other similar devices on the market. The internet connection is not stable, even when direct in via Ethernet"
+      ],
+      "praise": [
+        [
+          "streaming and video",
+          44
+        ],
+        [
+          "speed and performance",
+          15
+        ],
+        [
+          "easy to use",
+          15
+        ]
+      ]
+    },
+    "worst_is_also_top": true
+  },
+  "E-readers (Kindle)": {
+    "category": "E-readers (Kindle)",
+    "n_reviews": 4134,
+    "n_products": 5,
+    "avg": 4.8,
+    "pct_neg": 1,
+    "limited": false,
+    "single": false,
+    "top": [
+      {
+        "name": "Kindle Paperwhite",
+        "reviews": 3218,
+        "avg": 4.8,
+        "pct_neg": 1,
+        "pct_pos": 97,
+        "mentions": [
+          "paperwhite",
+          "read",
+          "books",
+          "reading",
+          "night"
+        ],
+        "neg_cut": "1-2",
+        "n_neg": 30,
+        "complaints": [
+          [
+            "screen quality",
+            17
+          ],
+          [
+            "Wi-Fi and connectivity",
+            17
+          ],
+          [
+            "setup and ease of use",
+            13
+          ]
+        ],
+        "quotes": [
+          "Kindle. It's more for people that want to read without glare"
+        ],
+        "praise": [
+          [
+            "reading experience",
+            74
+          ],
+          [
+            "screen and display",
+            20
+          ],
+          [
+            "portability and size",
+            14
+          ]
+        ]
+      },
+      {
+        "name": "Kindle Voyage",
+        "reviews": 631,
+        "avg": 4.7,
+        "pct_neg": 1,
+        "pct_pos": 97,
+        "mentions": [
+          "voyage",
+          "page",
+          "buttons",
+          "turn",
+          "worth"
+        ],
+        "neg_cut": "1-3",
+        "n_neg": 19,
+        "complaints": [
+          [
+            "battery life",
+            21
+          ],
+          [
+            "price and value",
+            21
+          ],
+          [
+            "screen quality",
+            16
+          ]
+        ],
+        "quotes": [
+          "Experimental browser not great. The Kindle is great for just reading books, and the battery power is pretty good.The experimental browser is not very user friendly",
+          "Easy to read in outdoor settings.. Clear reading in bright light outdoor settings. Long battery life"
+        ],
+        "praise": [
+          [
+            "reading experience",
+            68
+          ],
+          [
+            "screen and display",
+            30
+          ],
+          [
+            "portability and size",
+            16
+          ]
+        ]
+      },
+      {
+        "name": "Kindle Oasis",
+        "reviews": 67,
+        "avg": 4.6,
+        "pct_neg": 3,
+        "pct_pos": 94,
+        "mentions": [
+          "oasis",
+          "cover",
+          "buttons",
+          "hold",
+          "case"
+        ],
+        "neg_cut": "1-3",
+        "n_neg": 4,
+        "complaints": [],
+        "quotes": [],
+        "praise": [
+          [
+            "reading experience",
+            62
+          ],
+          [
+            "screen and display",
+            38
+          ],
+          [
+            "portability and size",
+            38
+          ]
+        ]
+      }
+    ],
+    "worst": {
+      "name": "Kindle Oasis",
+      "reviews": 67,
+      "avg": 4.6,
+      "pct_neg": 3,
+      "pct_pos": 94,
+      "mentions": [
+        "oasis",
+        "cover",
+        "buttons",
+        "hold",
+        "case"
+      ],
+      "neg_cut": "1-3",
+      "n_neg": 4,
+      "complaints": [],
+      "quotes": [],
+      "praise": [
+        [
+          "reading experience",
+          62
+        ],
+        [
+          "screen and display",
+          38
+        ],
+        [
+          "portability and size",
+          38
+        ]
+      ]
+    },
+    "worst_is_also_top": true
+  },
+  "Accessories": {
+    "category": "Accessories",
+    "n_reviews": 555,
+    "n_products": 6,
+    "avg": 4.3,
+    "pct_neg": 13,
+    "limited": false,
+    "single": false,
+    "top": [
+      {
+        "name": "Amazon 5W USB Charger",
+        "reviews": 396,
+        "avg": 4.4,
+        "pct_neg": 9,
+        "pct_pos": 86,
+        "mentions": [
+          "stars",
+          "fine",
+          "expected",
+          "ordered",
+          "star"
+        ],
+        "neg_cut": "1-2",
+        "n_neg": 37,
+        "complaints": [
+          [
+            "price and value",
+            32
+          ],
+          [
+            "plug and cable fit",
+            24
+          ]
+        ],
+        "quotes": [
+          "One Star. Really expected a chord with it for the price we paid. Very dissapointed",
+          "Too expensive. Should be included, at no extra .... Too expensive. Should be included, at no extra cost, with the Kindle"
+        ],
+        "praise": []
+      },
+      {
+        "name": "Amazon 9W PowerFast Charger",
+        "reviews": 73,
+        "avg": 4.2,
+        "pct_neg": 16,
+        "pct_pos": 79,
+        "mentions": [
+          "charger",
+          "fast",
+          "charging",
+          "hours",
+          "charge"
+        ],
+        "neg_cut": "1-3",
+        "n_neg": 15,
+        "complaints": [
+          [
+            "plug and cable fit",
+            33
+          ],
+          [
+            "slow performance",
+            20
+          ],
+          [
+            "reliability",
+            20
+          ]
+        ],
+        "quotes": [],
+        "praise": [
+          [
+            "speed and performance",
+            36
+          ],
+          [
+            "fast charging",
+            14
+          ],
+          [
+            "price and value",
+            12
+          ]
+        ]
+      }
+    ],
+    "worst": {
+      "name": "Amazon 9W PowerFast Charger",
+      "reviews": 73,
+      "avg": 4.2,
+      "pct_neg": 16,
+      "pct_pos": 79,
+      "mentions": [
+        "charger",
+        "fast",
+        "charging",
+        "hours",
+        "charge"
+      ],
+      "neg_cut": "1-3",
+      "n_neg": 15,
+      "complaints": [
+        [
+          "plug and cable fit",
+          33
+        ],
+        [
+          "slow performance",
+          20
+        ],
+        [
+          "reliability",
+          20
+        ]
+      ],
+      "quotes": [],
+      "praise": [
+        [
+          "speed and performance",
+          36
+        ],
+        [
+          "fast charging",
+          14
+        ],
+        [
+          "price and value",
+          12
+        ]
+      ]
+    },
+    "worst_is_also_top": true
+  }
+}

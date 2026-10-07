@@ -1,0 +1,16 @@
+variant,category,numbers_real,products_covered,complaints_covered,length_ok,structure_ok,prose_ok,names_ok,unsupported,words,overall,model
+A,Fire tablets,0.875,1.0,0.8,0.19999999999999996,0.0,1.0,1.0,,700,0.6964285714285714,qwen2.5-3b
+B,Fire tablets,0.9375,1.0,0.8,0.848,0.0,1.0,1.0,,538,0.7979285714285714,qwen2.5-3b
+C,Fire tablets,0.9387755102040817,1.0,1.0,0.272,0.0,1.0,1.0,,682,0.744396501457726,qwen2.5-3b
+A,Smart speakers (Echo),1.0,0.5,1.0,0.5680000000000001,0.0,0.0,1.0,,608,0.5811428571428571,qwen2.5-3b
+B,Smart speakers (Echo),1.0,0.5,1.0,1.0,0.0,1.0,1.0,,490,0.7857142857142857,qwen2.5-3b
+C,Smart speakers (Echo),1.0,1.0,0.75,1.0,1.0,1.0,1.0,,455,0.9642857142857143,qwen2.5-3b
+A,Streaming devices (Fire TV),1.0,1.0,1.0,1.0,0.0,1.0,0.0,Amazon Prime Video,445,0.7142857142857143,qwen2.5-3b
+B,Streaming devices (Fire TV),1.0,1.0,1.0,1.0,1.0,1.0,1.0,,327,1.0,qwen2.5-3b
+C,Streaming devices (Fire TV),0.6666666666666666,1.0,1.0,1.0,1.0,1.0,0.0,Amazon Prime Video,292,0.8095238095238094,qwen2.5-3b
+A,E-readers (Kindle),1.0,1.0,1.0,0.8,0.0,0.0,1.0,,550,0.6857142857142857,qwen2.5-3b
+B,E-readers (Kindle),1.0,1.0,0.8,0.98,0.0,1.0,1.0,,505,0.8257142857142856,qwen2.5-3b
+C,E-readers (Kindle),1.0,1.0,0.8,0.992,0.0,1.0,1.0,,502,0.8274285714285714,qwen2.5-3b
+A,Accessories,1.0,1.0,1.0,0.848,0.0,1.0,1.0,,538,0.8354285714285714,qwen2.5-3b
+B,Accessories,1.0,1.0,1.0,1.0,0.0,1.0,1.0,,320,0.8571428571428571,qwen2.5-3b
+C,Accessories,1.0,1.0,1.0,1.0,0.0,1.0,1.0,,445,0.8571428571428571,qwen2.5-3b

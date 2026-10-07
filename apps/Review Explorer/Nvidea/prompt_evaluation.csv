@@ -1,0 +1,16 @@
+variant,category,numbers_real,products_covered,complaints_covered,length_ok,structure_ok,prose_ok,names_ok,unsupported,words,overall,model
+A,Fire tablets,0.9117647058823529,0.0,1.0,0.5680000000000001,0.0,0.5,0.0,Amazon Kids+,608,0.42568067226890755,nemotron-3-ultra
+B,Fire tablets,0.972972972972973,1.0,1.0,1.0,1.0,1.0,1.0,,477,0.9961389961389961,nemotron-3-ultra
+C,Fire tablets,0.975609756097561,1.0,1.0,1.0,1.0,1.0,1.0,,453,0.9965156794425087,nemotron-3-ultra
+A,Smart speakers (Echo),0.9523809523809523,0.5,1.0,1.0,0.0,0.4,1.0,,472,0.6931972789115647,nemotron-3-ultra
+B,Smart speakers (Echo),0.96,1.0,1.0,1.0,1.0,1.0,1.0,,366,0.9942857142857143,nemotron-3-ultra
+C,Smart speakers (Echo),1.0,1.0,1.0,1.0,1.0,1.0,1.0,,303,1.0,nemotron-3-ultra
+A,Streaming devices (Fire TV),0.9565217391304348,1.0,1.0,0.636,0.0,1.0,1.0,,591,0.7989316770186335,nemotron-3-ultra
+B,Streaming devices (Fire TV),1.0,1.0,1.0,1.0,1.0,1.0,1.0,,305,1.0,nemotron-3-ultra
+C,Streaming devices (Fire TV),1.0,1.0,1.0,0.972,1.0,1.0,1.0,,243,0.9959999999999999,nemotron-3-ultra
+A,E-readers (Kindle),0.8055555555555556,1.0,0.8,0.36,0.0,0.6,1.0,,660,0.6522222222222221,nemotron-3-ultra
+B,E-readers (Kindle),0.9545454545454546,1.0,1.0,1.0,1.0,1.0,1.0,,392,0.9935064935064936,nemotron-3-ultra
+C,E-readers (Kindle),0.9615384615384616,1.0,1.0,1.0,1.0,1.0,1.0,,353,0.9945054945054945,nemotron-3-ultra
+A,Accessories,1.0,0.0,1.0,0.688,0.0,0.5,0.0,Amazon Accessory,578,0.4554285714285714,nemotron-3-ultra
+B,Accessories,0.9642857142857143,1.0,1.0,1.0,1.0,1.0,1.0,,379,0.9948979591836735,nemotron-3-ultra
+C,Accessories,0.9696969696969697,1.0,1.0,1.0,1.0,1.0,1.0,,365,0.9956709956709957,nemotron-3-ultra
