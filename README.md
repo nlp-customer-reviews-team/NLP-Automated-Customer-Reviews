@@ -181,6 +181,25 @@ NLP_Customer_Reviews/
 └── README.md
 ```
 
+
+## 🚀 Live Applications
+
+Try the deployed applications directly in your browser — no Google Colab setup is required.
+
+### Sentiment Analysis — Workshop 1
+
+Classify an Amazon customer review as **Negative, Neutral, or Positive** using the deployed sentiment model.
+
+👉 [Launch Sentiment Analysis App](https://huggingface.co/spaces/Roberto-Vargas/Workshop_1)
+
+### Customer Review Explorer — Workshop 2
+
+Explore product categories, review insights, and generated category-level content.
+
+👉 [Launch Customer Review Explorer](https://huggingface.co/spaces/Roberto-Vargas/Workshop_2)
+
+---
+
 ## Running the Project
 
 The notebooks are designed to be run in Google Colab.
